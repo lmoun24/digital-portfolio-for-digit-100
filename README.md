@@ -1,12 +1,5 @@
-# lmoun24.GitHub.io
- Digital portfolio for digit 100
-<<<<<<< HEAD
- <head><Laney Mountz digit 100 portfolio
-   <
-=======
-<head></lANEY Mountz>
-# lmoun24.GitHub.io/html
- Digital portfolio for digit 100
+
+ <html>
  <head>
    <title>Laney Mountz digit 100 portfolio-cv</title>
 <link rel= "stylesheet">
@@ -16,4 +9,3 @@
 <<h2></contact>my email is lem5926@psu.edu
   <link><https://psu.instructure.com/courses/2365307>
     <link><https://docs.google.com/document/d/100PVCpQGuAvp9FQbOAiwwcxYjhDuPQJB7H2m3Jd2Ync/edit?tab=t.0>
->>>>>>> 5d1c966a4e3e6f41d1bcf2242958fca2a9dfa15e
